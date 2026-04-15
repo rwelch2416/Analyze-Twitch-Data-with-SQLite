@@ -128,6 +128,7 @@ ORDER BY avg_follower_growth DESC;
 ---
 # 📊 Key Findings 
 Streamers in both 2021 & 2024 top lists - 265 (26.5% rentention)
+
 Streamers who dropped off - 735
 New entrants in 2024 - 734
 Highest follower growth - Ibai (+13.7M)
