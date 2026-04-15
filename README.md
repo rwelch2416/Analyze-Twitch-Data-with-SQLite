@@ -8,7 +8,7 @@ cd twitch-sqlite-analysis
 ```
 2. Open SQLite and create your database
 ```bash
-sqlite3 twitch.db
+sqlite3 TwitchDatabase.db
 ```
 3. Import both CSV files
 ```sql
