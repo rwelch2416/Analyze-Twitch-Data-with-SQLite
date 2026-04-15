@@ -138,3 +138,6 @@ Highest follower growth - Ibai (+13.7M)
 Language with highest avg growth - Spanish (+3.4M avg)
 
 Most represented language - English (141 streamers in both years)
+
+# 🪪 License 
+This project is for educational purposes. Dataset credits to the original Codédex project.
